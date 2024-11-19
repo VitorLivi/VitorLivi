@@ -9,7 +9,7 @@
 </p>
 
 <h3>Gitlab activity</h3>
-<img src="https://drive.google.com/file/d/1RY7hbadg_BM-Wm_LhgZoisIaZ3-EEZMc/view"></img>
+<img src="./gitlab.png"></img>
 
 <br/>
 
